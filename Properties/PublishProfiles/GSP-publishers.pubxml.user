@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\GSP-desktop</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/GulfStatesPublishers.dll">
+      <publishTime>08/05/2017 10:18:27</publishTime>
+    </File>
+    <File Include="GSP-home.html">
+      <publishTime>08/05/2017 00:01:18</publishTime>
+    </File>
+    <File Include="Images/BHG.jpg">
+      <publishTime>07/26/2017 23:33:55</publishTime>
+    </File>
+    <File Include="Images/caranddriver.jpg">
+      <publishTime>07/26/2017 23:30:51</publishTime>
+    </File>
+    <File Include="Images/Discover.jpg">
+      <publishTime>07/26/2017 23:34:13</publishTime>
+    </File>
+    <File Include="Images/Entrepreneur.jpg">
+      <publishTime>07/26/2017 23:35:26</publishTime>
+    </File>
+    <File Include="Images/Esquire.jpg">
+      <publishTime>07/26/2017 23:36:02</publishTime>
+    </File>
+    <File Include="Images/GH.jpg">
+      <publishTime>07/26/2017 23:27:53</publishTime>
+    </File>
+    <File Include="Images/Glamour.jpg">
+      <publishTime>07/26/2017 23:34:54</publishTime>
+    </File>
+    <File Include="Images/handyman.jpg">
+      <publishTime>07/26/2017 23:33:36</publishTime>
+    </File>
+    <File Include="Images/https-%252F%252Fwww.discountmags.com%252Fshopimages%252Fproducts%252Fnormal%252Fextra%252Fi%252F5452-wired-Cover-2017-July-1-Issue.jpg">
+      <publishTime>07/26/2017 23:27:36</publishTime>
+    </File>
+    <File Include="Images/Inc.jpg">
+      <publishTime>07/26/2017 23:36:16</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>07/17/2017 09:27:55</publishTime>
+    </File>
+    <File Include="Images/mag1.jpg">
+      <publishTime>07/26/2017 23:16:37</publishTime>
+    </File>
+    <File Include="Images/maximumpc.jpg">
+      <publishTime>07/26/2017 23:28:59</publishTime>
+    </File>
+    <File Include="Images/MenFitness.jpg">
+      <publishTime>07/26/2017 23:28:09</publishTime>
+    </File>
+    <File Include="Images/MotorTrend.jpg">
+      <publishTime>07/26/2017 23:34:37</publishTime>
+    </File>
+    <File Include="Images/Muscle&amp;Fitness.jpg">
+      <publishTime>07/26/2017 23:34:27</publishTime>
+    </File>
+    <File Include="Images/People.jpg">
+      <publishTime>07/26/2017 23:37:09</publishTime>
+    </File>
+    <File Include="Images/Playboy.jpg">
+      <publishTime>07/26/2017 23:35:49</publishTime>
+    </File>
+    <File Include="Images/rollingstones.jpg">
+      <publishTime>07/26/2017 23:30:20</publishTime>
+    </File>
+    <File Include="Images/savings.png">
+      <publishTime>08/04/2017 16:25:11</publishTime>
+    </File>
+    <File Include="Images/Seventeen.jpg">
+      <publishTime>07/26/2017 23:36:55</publishTime>
+    </File>
+    <File Include="Images/star.jpg">
+      <publishTime>07/26/2017 23:28:19</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>08/05/2017 10:14:40</publishTime>
+    </File>
+    <File Include="privacypolicy.html">
+      <publishTime>08/05/2017 01:06:51</publishTime>
+    </File>
+    <File Include="PrivacyPolicyStyle.css">
+      <publishTime>08/05/2017 02:57:03</publishTime>
+    </File>
+    <File Include="StyleSheet1.css">
+      <publishTime>08/05/2017 10:20:02</publishTime>
+    </File>
+    <File Include="StyleSheet2.css">
+      <publishTime>08/04/2017 22:21:22</publishTime>
+    </File>
+    <File Include="Support.html">
+      <publishTime>08/05/2017 01:06:51</publishTime>
+    </File>
+    <File Include="TermsandConditions.html">
+      <publishTime>08/05/2017 01:06:51</publishTime>
+    </File>
+    <File Include="Terms_and_Conditions.css">
+      <publishTime>08/05/2017 00:31:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/05/2017 09:08:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

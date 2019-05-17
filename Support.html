@@ -1,0 +1,86 @@
+﻿ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+    <meta content="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Feedback Form</title>
+
+
+    <link href="StyleSheet2.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+
+    <form id="form1" action="send_mail.php" method="post" target="_top">
+
+        <script type="text/javascript">
+
+        </script>
+        <div class="page" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <h1 class="colour">
+                <img class="logo" src="Images/FI-logo-II.png" alt="" />
+            </h1>
+
+            <div id="menu">
+                <ul>
+                    <li><a class="mnu" href="GSP-home.html">Home</a></li>
+                    
+
+                </ul>
+            </div>
+            <br />
+            <br />
+
+            <br />
+            <br />
+            <asp:textbox id="TextBox1" borderstyle="None"
+                         font-names="Lucida Sans" font-size="Medium" forecolor="#666666" height="107px"
+                         readonly="True" textmode="MultiLine" width="612px">
+                For inquiries regarding  all commission work, mobile apps or you just want to drop me a line please use the section provided below.
+            </asp:textbox>
+            &nbsp;<br />
+            <br />
+
+
+
+
+
+            <table class="tble">
+                <tr>
+                    <td>
+                        Email Adress:
+                    </td>
+                    <td>
+                        <input maxlength="100" name="email_address" type="text" value="" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Comments:
+                    </td>
+                    <td>
+                        <textarea cols="50" name="comments" rows="10"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        &nbsp;
+                    </td>
+                    <td>
+                        <input type="submit" value="Submit" />
+                    </td>
+                </tr>
+            </table>
+
+            <br />
+
+        </div>
+
+    </form>
+</body>
+</html>
+
+
